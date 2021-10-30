@@ -1,12 +1,31 @@
-# bus_map
-MiT project making tracking a bus on a map.
-
 Title: Real Time Bus Tracker
 
-Object: Track a bus along it's bus stop route. Do this using a fully functional map.
+Description: This is an app that tracks a bus along a route using GPS coordinates. It uses a real map and real coordinates. It is coded using Javascript.
 
-How To: Download all files and upload them to your server. Once uploaded, simply navigate to index.html in your web browser. Next, click the button at the top of the page and watch the animation.
+Directions: Download all files from the repository. Then upload them to your server, once they are uploaded, load index.html into your browser. Once loaded, click the button at the top of the screen to start the animation.
 
-Things To Do: Add styles to dress up the button, change the flag marker to a bus.
+Future Improvements: In the near future I plan on adding more stops and I would like to change the standard flag to a custom one. I would also like to add multiple buses.
+
+License information: MIT License
+
+Copyright (c) 2020 John Williams
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
 
