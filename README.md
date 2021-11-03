@@ -1,3 +1,8 @@
+# Bus Tracker
+##Every 15 seconds the bus is tracked
+<img src = "screenshot.png" width = "300"/>
+
+
 Title: Real Time Bus Tracker
 
 Description: This is an app that tracks a bus along a route using GPS coordinates. It uses a real map and real coordinates. It is coded using Javascript.
