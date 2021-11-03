@@ -1,5 +1,6 @@
 # Bus Tracker
 ##Every 15 seconds the bus is tracked
+<br>
 <img src = "screenshot.png" width = "300"/>
 
 
